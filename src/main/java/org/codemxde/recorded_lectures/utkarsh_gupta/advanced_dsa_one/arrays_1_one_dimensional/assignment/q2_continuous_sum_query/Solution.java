@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.assignment.q2_continuous_sum_query;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_1_one_dimensional.assignment.q2_continuous_sum_query;
 
 public class Solution {
 

@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.additional_problem.q2_flip;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_1_one_dimensional.additional_problems.q2_flip;
 
 public class Solution {
 

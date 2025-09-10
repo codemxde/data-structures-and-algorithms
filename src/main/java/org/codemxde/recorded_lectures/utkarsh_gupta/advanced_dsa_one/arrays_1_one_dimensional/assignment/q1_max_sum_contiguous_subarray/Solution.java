@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.assignment.q1_max_sum_contiguous_subarray;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_1_one_dimensional.assignment.q1_max_sum_contiguous_subarray;
 
 public class Solution {
 

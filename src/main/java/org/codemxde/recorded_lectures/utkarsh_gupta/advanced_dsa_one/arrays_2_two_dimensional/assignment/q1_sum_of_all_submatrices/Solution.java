@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_two.assignment.q1_sum_of_all_submatrices;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_2_two_dimensional.assignment.q1_sum_of_all_submatrices;
 
 public class Solution {
 

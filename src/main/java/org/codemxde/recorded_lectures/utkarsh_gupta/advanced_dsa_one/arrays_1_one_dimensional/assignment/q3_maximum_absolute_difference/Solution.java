@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.assignment.q3_maximum_absolute_difference;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_1_one_dimensional.assignment.q3_maximum_absolute_difference;
 
 import java.util.Arrays;
 

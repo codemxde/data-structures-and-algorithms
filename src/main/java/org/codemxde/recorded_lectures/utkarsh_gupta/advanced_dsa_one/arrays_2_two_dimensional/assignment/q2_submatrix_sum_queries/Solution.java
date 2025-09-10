@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_two.assignment.q2_submatrix_sum_queries;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_2_two_dimensional.assignment.q2_submatrix_sum_queries;
 
 import java.util.Arrays;
 

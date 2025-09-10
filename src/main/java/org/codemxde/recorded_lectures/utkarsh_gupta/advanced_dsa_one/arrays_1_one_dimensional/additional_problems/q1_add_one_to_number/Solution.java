@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.additional_problem.q1_add_one_to_number;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_1_one_dimensional.additional_problems.q1_add_one_to_number;
 
 public class Solution {
 

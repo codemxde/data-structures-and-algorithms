@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_two.in_class;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_2_two_dimensional.in_class;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_two.assignment.q3_search_in_sorted_matrix;
+package org.codemxde.recorded_lectures.utkarsh_gupta.advanced_dsa_one.arrays_2_two_dimensional.assignment.q3_search_in_sorted_matrix;
 
 public class Solution {
 
