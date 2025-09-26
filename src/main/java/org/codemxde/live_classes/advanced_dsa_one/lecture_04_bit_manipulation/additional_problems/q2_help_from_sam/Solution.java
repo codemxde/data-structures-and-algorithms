@@ -9,13 +9,13 @@ public class Solution {
     }
 
     public static int solve(int A) {
-        if (A == 0) return 0;
-
-        int score = 1;
-        while ((score << 1) <= A) {
-            score = (score << 1);
+        // Return the number of set bits
+        int setbits = 0;
+        while (A > 0) {
+            if ((A & 1) != 0) setbits++;
+            A >>= 1;
         }
 
-        return 1 + (A - score);
+        return setbits;
     }
 }
