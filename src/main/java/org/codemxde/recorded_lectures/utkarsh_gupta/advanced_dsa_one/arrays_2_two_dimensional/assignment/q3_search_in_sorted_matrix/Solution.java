@@ -22,7 +22,7 @@ public class Solution {
         while (i < N && j >= 0) {
             if (A[i][j] == B) {
                 int calculation = (i + 1) * 1009 + (j + 1);
-                minimumValue = calculation < minimumValue ? calculation : minimumValue;
+                minimumValue = Math.min(calculation, minimumValue);
 
                 // For minimum calculation, only left search would be necessary
                 // Look at the equation (i * 10009 + j)
