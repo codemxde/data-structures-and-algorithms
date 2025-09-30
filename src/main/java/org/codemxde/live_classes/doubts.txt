@@ -1,0 +1,22 @@
+Try to get these resolved in the doub solving session post the class:
+
+1. N / 3 repeat number
+
+URL: https://www.scaler.com/academy/mentee-dashboard/class/236044/homework/problems/67?navref=cl_tt_lst_nm
+
+You're given a read-only array of N integers.
+Find out if any integer occurs more than N/3 times in the array
+in linear time and constant additional space.
+If so, return the integer. If not, return -1.
+
+If there are multiple solutions, return any one.
+
+Note: Read-only array means that the input array should
+not be modified in the process of solving the problem
+
+MY ASK:
+If it has to be performed in constant space, that means we can not use hashmap
+then should a slding window be maintained which is just greater than N/3 ?
+But still, even then how do we keep track of each numbers frequency without still needing a map
+
+=======================================================================================================================
